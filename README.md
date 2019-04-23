@@ -29,7 +29,7 @@ Looking for:
 ## Jupyter extensions
 
 ### BeakerX
-- [github](https://github.com/twosigma/beakerx)
+- [github](https://github.com/twosigma/beakerx) (2100 stars, 307 forks, 31 contributors, last commit today)
 > BeakerX is a collection of JVM kernels and interactive widgets for plotting, tables, autotranslation, and other extensions to Jupyter Notebook.
 
 ### pyviz/Panel
@@ -72,6 +72,7 @@ Javascript library: Code snippets in HTML are sent to JupyterLab for eval, and t
 
 ### Apache Zeppelin
 - [home](http://zeppelin.apache.org/)
+
 Alternative notebook system. One superficial difference is that you can set a width (0-12) on cells, and it will float successive cells into the remaining space, allowing dashboard-style interfaces out of the box. 
 
 ## Other
