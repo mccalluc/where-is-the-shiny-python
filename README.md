@@ -18,6 +18,8 @@ Looking for:
 
 ## Dash
 
+<details>
+  
 ### Plotly Dash
 - [home](https://dash.plot.ly/)
 - [github](https://github.com/plotly/dash) (8,784 stars, 876 forks, 29 contributors, last commit Apr 17, 2019)
@@ -26,7 +28,11 @@ Looking for:
 - [github](https://github.com/plotly/jupyterlab-dash) (121 stars, 16 forks, 4 contributors, last commit Mar 24, 2019)
 > A JupyterLab extension for rendering Plotly Dash apps as a separate window
 
+</details>
+
 ## Jupyter extensions
+
+<details>
 
 ### BeakerX
 - [github](https://github.com/twosigma/beakerx) (2100 stars, 307 forks, 31 contributors, last commit today)
@@ -53,8 +59,11 @@ Jupyter extension
 **Inactive**: Jupyter extension. Cells can be arranged in grids, rather than occupying the full width. Project had initial funding from IBM, then lost energy.
 > Easy drag-and-drop layout of cell outputs in a grid, one-click publish, secure execution of the notebook by not accepting code execution from the browser.
 
+</details>
+
 ## Notebooks outside Jupyter and Jupyter alternatives
 
+<details>
 
 ### Voila
 - [github](https://github.com/quantstack/voila) (169 stars, 23 forks, 5 contributors, last commit Apr 5, 2019)
@@ -75,16 +84,24 @@ Javascript library: Code snippets in HTML are sent to JupyterLab for eval, and t
 
 Alternative notebook system. One superficial difference is that you can set a width (0-12) on cells, and it will float successive cells into the remaining space, allowing dashboard-style interfaces out of the box. 
 
+</details>
+
 ## Other
 
+<details>
+  
 ### Bowtie
 - [readthedocs](https://bowtie-py.readthedocs.io/en/latest/)
 - [github](https://github.com/jwkvam/bowtie) (645 stars, 54 forks, 3 contributors, last commit Feb 10, 2019)
 - [gallery](https://github.com/jwkvam/bowtie/wiki/Gallery)
 > Bowtie is a library for writing dashboards in Python. No need to know web frameworks or JavaScript, focus on building functionality in Python.
 
+</details>
+
 # Comparisons
 
+<details>
+  
 ## [Bokeh vs. Dash](https://blog.sicara.com/bokeh-dash-best-dashboard-framework-python-shiny-alternative-c5b576375f7f): January 30, 2018
 > I would use Dash by default:
 > - it uses plotly for python which makes it very powerful
@@ -103,3 +120,5 @@ Alternative notebook system. One superficial difference is that you can set a wi
 
 ## [Zeppelin vs. Jupyter](): March 25, 2017
 > As far as I see, for now Zeppelin doesn’t cover all Jupyter’s features and possibilities, also it is not so stable and popular among analytic users. But already now Zeppelin shows that it is designed for enterprise users – thus it has great LDAP integration feature, permissions management system and so on.
+
+</details>
